@@ -15,6 +15,7 @@
           "options": {
             "outputPath": "dist/angular-pau",
             "index": "src/index.html",
+            "baseHref": "/angular-pau/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
